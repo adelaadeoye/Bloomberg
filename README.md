@@ -1,2 +1,2 @@
 # Bloomberg
-Bloomberg Coding practice
+Bloomberg Coding practice schedule for 24/11
